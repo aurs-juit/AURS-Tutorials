@@ -18,4 +18,6 @@ For this use the command, `ssh pi@10.XX.X.X` //Default username is pi<br>
 You will be asked for the password, enter your password. Default password is raspberry.<br>
 
 For accessing in GUI mode, Go to any remote desktop in case of Ubuntu use Remmina. Log in using RDP with your ip.<br>
-Enjoy!
+Now in our GUI mode connect your hotspot, actually you are making your pi to remember it.<br>
+Once you have set up your pi, you can ssh into it just by powering up your Hotspot and Pi. Enjoy!
+![Terminal Login](/git.png)
