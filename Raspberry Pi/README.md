@@ -20,4 +20,4 @@ You will be asked for the password, enter your password. Default password is ras
 For accessing in GUI mode, Go to any remote desktop in case of Ubuntu use Remmina. Log in using RDP with your ip.<br>
 Now in our GUI mode connect your hotspot, actually you are making your pi to remember it.<br>
 Once you have set up your pi, you can ssh into it just by powering up your Hotspot and Pi. Enjoy!
-![Terminal Login](/git.png)
+[Terminal Login](https://github.com/aurs-juit/AURS-Tutorials/blob/master/Raspberry%20Pi/git.png)
