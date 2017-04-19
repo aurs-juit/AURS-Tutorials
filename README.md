@@ -28,6 +28,9 @@ Learn to make circuits Diagrams and other visuals like designing PCB, Schematics
 ### [ROS-Distributions](https://github.com/aurs-juit/AURS-JUIT/wiki)
 You would definetly need something to be the Brain of Bots!
 
+### [Python(https://github.com/aurs-juit/AURS-Tutorials/python
+We will work with python as it has support for numerous packages and liibraries. <br>It will be utilized in things ranging from IoT to Robotics to Computer Vision.
+
 ***
 
 This Repository is only for the Tutorial purposes of AURS-JUIT but anyone can feel free to use it. This repository is regularly updated and maintained by Team members. 
