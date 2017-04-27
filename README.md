@@ -10,6 +10,9 @@ This folder contains Latex tutorials for Documentations and Presentations
 * Documenting your work (Latex-Tutorial-forDocumentation.pdf)
 * Creating presentation (Latex-Tutorial-forPresentation.pdf) 
 
+### [Vim](https://github.com/aurs-juit/AURS-Tutorials/tree/master/Vim)
+We encourage you to make Vim as your primary editor, here you will find all that you need to know about it.
+
 ### [Linux](https://github.com/aurs-juit/AURS-Tutorials/tree/master/Linux)
 Contains basic commands to get you started with Linux
 
