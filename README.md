@@ -33,6 +33,21 @@ You would definetly need something to be the Brain of Bots!
 
 ### [Python](https://github.com/aurs-juit/AURS-Tutorials/tree/master/python)
 We will work with python as it has support for numerous packages and liibraries. <br>It will be utilized in things ranging from IoT to Robotics to Computer Vision.
+<br>
+### Docker
+
+**Installing on Ubuntu**<br>
+(1) Set up the docker repository<br>
+`$ sudo apt-get update`<br>
+`$ sudo apt-get install apt-transport-https ca-certificates curl software-properties-common`<br>
+`$ curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -`<br>
+`$ sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable"`<br>
+(2) Install Docker CE<br>
+`$ sudo apt-get update`<br>
+`$ sudo apt-get install docker-ce`<br>
+(3) Verify Installation<br>
+`$ sudo docker run hello-world<br>
+`
 
 ***
 
